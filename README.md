@@ -1,5 +1,1 @@
-# indian-currency-detection-using-the-image-processing-techniques
-#include stdio.h
-{
-//how arw you
-}
+The research, titled "Indian Currency Detection Using Image Processing Technique," established a system to determine the denomination of the notes and determine whether they are real or false.
